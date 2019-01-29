@@ -7,18 +7,16 @@
 <a id="introduction"></a>
 ## Introduction
 
-I am attending Siraj's Move 37 course through the School of AI. This repository contains my notes and assignments as I work through his course. I also use it to gather and track all resources Siraj provides us through his course.
+I am attending Siraj's Data Lit course through the School of AI. This repository contains my notes and assignments as I work through his course. I also use it to gather and track all resources Siraj provides us through his course.
 
 ### Course Links
 
 - [Course Website](https://www.theschool.ai/courses/data-lit/)
-- [Move 37 Official Trailer](https://www.youtube.com/watch?v=Ei1YBf6qQAw&t=1s)
-- [Move 37 Introduction](https://www.youtube.com/watch?v=fRmZck1Dakc)
-- [Move 37 Syllabus](https://github.com/llSourcell/Move_37_Syllabus)
+- [Data Lit Official Trailer](https://www.youtube.com/watch?v=2GwzlT2M59A)
 
 
 ### Weekly Notes
-- [Week 01 Notes: Data Collection](week01_data_collection/week01_notes.md)
+- [Week 01 Notes: Data Collection](week01_data_collection/README.md)
 
 
 ### Homework Assignments
@@ -38,10 +36,8 @@ Data Lit is is a 3 month course designed to help absolute beginners become profi
 - 1 Weekly assignment
 
 ### Course Length
-12 Weeks
-10-15 hours per week
-Certification
-Students who successfully complete the course will receive their own certificate signed by Siraj Raval.
+12 Weeks @ 10-15 hours per week
+
 
 ### Tools Used
 Python, SQL, Tensorflow, Hadoop, MapReduce, Spark, GitHub

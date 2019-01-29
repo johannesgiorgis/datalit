@@ -30,9 +30,20 @@
 <a id="sql-techniques"></a>
 ## SQL Techniques
 
+**Learning Resources**:
+
+- [Github repository](https://github.com/connor11528/coding-interviews/tree/master/sql)
 
 <a id="cleaning-text-data"></a>
 ## Cleaning Text Data
+
+**Learning Resources**:
+
+- [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/)
+- [Pre-Processing in Natural Language Machine Learning](https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47)
+- [NLP: Text Data Cleaning and Preprocessing](https://medium.com/@dobko_m/nlp-text-data-cleaning-and-preprocessing-ea3ffe0406c1)
+- [Ultimate guide to deal with Text Data using Python](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
+- [Course: Natural Language Processing (NLP) using Python](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+NLP101+2018_T1/about)
 
 
 <a id="data-cleaning-tutorial-with-openrefine"></a>

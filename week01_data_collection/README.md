@@ -49,6 +49,13 @@
 <a id="data-cleaning-tutorial-with-openrefine"></a>
 ## Data CLeaning Tutorial with OpenRefine
 
+**Learning Resources**:
+
+- [Youtube: OpenRefine Data Cleaning Tutorial](https://www.youtube.com/watch?v=xZlz4ISgNBc)
+- [OpenRefine](http://openrefine.org/)
+- [Tutorial File](http://data.freeyourmetadata.org/powerhouse-museum/)
+
+
 <a id="reading-assignment-web-scraping-techniques"></a>
 ## Reading Assignment: Web Scraping Techniques
 
